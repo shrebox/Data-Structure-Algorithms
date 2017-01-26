@@ -1,6 +1,6 @@
 # Data-Structure-Algorithms
 
-All the major data structure codes written in C.
+All the major data structure codes written in C and C++.
 
 Enjoy! :)
 
