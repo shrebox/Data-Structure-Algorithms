@@ -43,7 +43,6 @@ void addedge(struct list A[], int a, int b)
 	A[a].tail = t;
 }
 
-//adding into queue
 void enqueue(int data)
 {
     if (end == NULL)
@@ -65,7 +64,7 @@ void enqueue(int data)
     count++;
 }
 
-//deleting from queue
+
 int dequeue()
 {
     start = front;
