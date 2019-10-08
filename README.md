@@ -2,7 +2,7 @@
 
 All the major data structure codes written in C and C++.
 
-Enjoy! :)
+Enjoy coding! :)
 
  
 // fcpt stands for foobar-contest-portal (foobar.iiitd.edu.in/contest) followed by the problem name
